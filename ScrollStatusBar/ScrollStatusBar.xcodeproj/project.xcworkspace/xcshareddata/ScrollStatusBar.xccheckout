@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4C2AC265-4A85-41ED-A059-54662A28C68A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ScrollStatusBar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08809480-21F3-4373-A339-A533C6D46DE1</key>
+		<string>https://github.com/ZachOrr/scroll-status-bar</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ScrollStatusBar/ScrollStatusBar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08809480-21F3-4373-A339-A533C6D46DE1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ZachOrr/scroll-status-bar</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08809480-21F3-4373-A339-A533C6D46DE1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08809480-21F3-4373-A339-A533C6D46DE1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>scroll-status-bar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
